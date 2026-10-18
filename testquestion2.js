@@ -6,6 +6,7 @@ function setup(){
     createCanvas(200, 300);
     fill("pink");
     background(220);
-    textAlign(CENTER,CENTER)
+    textAlign(CENTER,CENTER);
+    
     yPos = 100;
 }
