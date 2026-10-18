@@ -5,7 +5,7 @@ let yPos;
 function setup(){
     createCanvas(200, 300);
     fill("pink");
-    background(0);
+    // background(0);
     textAlign(CENTER,CENTER);
     textSize(20);
     yPos = 100;
