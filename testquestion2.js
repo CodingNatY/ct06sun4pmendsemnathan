@@ -7,6 +7,7 @@ function setup(){
     fill("pink");
     background(220);
     textAlign(CENTER,CENTER);
-    textSize()
+    textSize(100);
+    for(i=0; i<pokemons.length ;)
     yPos = 100;
 }
