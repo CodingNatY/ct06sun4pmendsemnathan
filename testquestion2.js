@@ -9,7 +9,7 @@ function setup(){
     textAlign(CENTER,CENTER);
     textSize(100);
     for(i=0; i<pokemons.length ; i++){
-        text(pokemons[i],width/2,)
+        text(pokemons[i],width/2,Ypos)
     }
     yPos = 100;
 }
