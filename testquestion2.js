@@ -7,6 +7,6 @@ function setup(){
     fill("pink");
     background(220);
     textAlign(CENTER,CENTER);
-    
+    text
     yPos = 100;
 }
